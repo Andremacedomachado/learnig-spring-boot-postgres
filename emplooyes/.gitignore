@@ -9,7 +9,7 @@ alvo /
 .apt_generated
 .classpath
 .factorypath
-.projeto
-.definições
+.project
+.settings
 .springBeans
 .sts4-cache
